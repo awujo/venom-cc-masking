@@ -106,7 +106,7 @@
 <div class="snake"><img src="https://i.ibb.co/fFqkC9g/20157-7-cobra-snake-file-thumb.png" alt="20157-7-cobra-snake-file-thumb" border="0"></div>
          <div> <h3 class="text-center pt-">VENOM CC LOADER</h3></div>
           <DIV class="login-form">      <div class="scroll"><marquee style="color: green;" style="font-size: 40px;" style="font-family: Verdana, Geneva, Tahoma, sans-serif;" behavior="left" direction="scroll"></b></marquee></div>
-<div class="master"><a href="https://sniperdz.com"><img src="https://i.ibb.co/K06LZjT/Mastercard-4-logo-png-transparent.png" alt="07ee773576559f11eadfde2f035ef897" border="0"></a></div>
+<div class="master"></div>
  <h4 style="text-align:center;"><b>DEBUG LISTENER</b></h4> 
 <div><p id="text"></p>
         <script>
